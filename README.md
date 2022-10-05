@@ -1,4 +1,4 @@
 # git-introduce
 Primer proyecto en git
 
-Proyecto de prueba para aorender git
+Proyecto de prueba para aprender git
